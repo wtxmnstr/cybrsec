@@ -6,7 +6,7 @@
 *	flag: `vsDOxoXyq3wckCP1ZmTZ71ngIA606odB`
 
 ## WriteUp
-1. On this level, the principle remains the same. The only change is that right-click doesn't work on the page. ![](screenshots/natas01_page.png)
+1. On this level, the principle remains the same. The only change is that right-click doesn't work on the page. ![](natas01_page.png)
 
 2. Press Ctrl+U and see the password in the source code of the page.
-   ![](screenshots/natas01_password.png)
+   ![](natas01_password.png)
