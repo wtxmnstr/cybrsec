@@ -8,7 +8,7 @@
 ## WriteUp
 1.  This service provides us with the source code for analysis.![](screenshots/natas06_source.png)
 
-2. The secret we are asked to enter is loaded from a file.![](screenshots/natas06_source_sec.png) 
+2. The secret we are asked to enter is loaded from a file. ![](screenshots/natas06_source_sec.png) 
 
 3. We try to view this file and see a secret.
    ![](screenshots/natas06_secret.png)
