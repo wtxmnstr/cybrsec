@@ -16,4 +16,4 @@
 
 3. We are issued a password.
 
-   ![[natas09_pass.png]]
+   ![](screenshots/natas09_pass.png)

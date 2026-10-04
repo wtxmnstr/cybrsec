@@ -9,10 +9,10 @@
 1. At this level, we are given the PHP source code. We see that the secret is Base64-encoded; then, the `strrev` function reverses it, and it is subsequently converted to hex.
 
    
-   ![](natas08_source.png)
+   ![](screenshots/natas08_source.png)
 
 2. We simply need to perform the reverse action. `xxd -r` converts the hex back. `rev` reverses the result. And then we decode the base64.
    
-![](natas08_decode.png)
+![](screenshots/natas08_decode.png)
 
-![](natas08_pass.png)
+![](screenshots/natas08_pass.png)

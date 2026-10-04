@@ -8,12 +8,12 @@
 ## WriteUp
 1. We see two links. When we click on "Home," the `page` parameter returns a file containing "home."
    
-   ![](natas07_source.png)
+   ![](screenshots/natas07_source.png)
 
 2. If we enter, for example, `page=/etc/passwd`, we get the contents of that file.
 
-   ![](natas07_etcpasswd.png)
+   ![](screenshots/natas07_etcpasswd.png)
 
 3.  A hint from the source code tells us that the password is located in the file `/etc/natas_webpass/natas8`. Let's go there.
 
- ![](natas07_pass.png)  
+ ![](screenshots/natas07_pass.png)  
