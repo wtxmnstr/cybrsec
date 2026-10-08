@@ -1,4 +1,5 @@
-# GamingServer
+
+![](screenshots/01.png)
 
 *	Difficult: `Eazy`
 *	flagUser: `a5c2ff8b9c2e3d4fe9d4ff2f1a5a6e7e`
