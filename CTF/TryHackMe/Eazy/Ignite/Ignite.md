@@ -1,4 +1,5 @@
-![](CTF/TryHackMe/Eazy/Ignite/screenshots/image0.png)
+
+![](screenshots/image0.png)
 
 *	Difficult: `Eazy`
 
@@ -22,5 +23,4 @@
 5. Я вынес флаг пользователя а потом отошел, после того как я вернулся, повторил все действия и запустил скриптик lenpeace.sh с гитхаба, который показал мне пароль от рута, который он нашел в файле бекапа. Пришлось полистать много текста, но скрин не сохранился. Затем ввел пароль и прочитал флаг
    ![](CTF/TryHackMe/Eazy/Ignite/screenshots/image5.png)
 
-
-   ![](CTF/TryHackMe/Eazy/Ignite/screenshots/image6.png)
+   ![](screenshots/image6.png)
