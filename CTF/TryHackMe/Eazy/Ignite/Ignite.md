@@ -1,4 +1,4 @@
-![[CTF/TryHackMe/Eazy/Ignite/screenshots/image0.png]]
+![](screenshots/image0.png)
 
 *	Difficult: `Eazy`
 
