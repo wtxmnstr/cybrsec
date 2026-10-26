@@ -42,4 +42,4 @@
 10.  `cd /root` и читаю флаг
 
 
-![](screenshots/image9.png)
+![](CTF/TryHackMe/Eazy/Tompson/screenshots/image9.png)
