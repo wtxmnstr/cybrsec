@@ -8,3 +8,5 @@
    - [Ignite](CTF/TryHackMe/Eazy/Ignite/RoomIgnite.md)
    - [SimpleCTF](CTF/TryHackMe/Eazy/SimpleCTF/RoomSimpleCTF.md)
    - [Dav](CTF/TryHackMe/Eazy/Dav/RoomDav.md)
+1. Hard
+   - [Empline](CTF/TryHackMe/Hard/Empline/RoomEmpline.md)
