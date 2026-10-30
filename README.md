@@ -10,3 +10,4 @@
    - [Dav](CTF/TryHackMe/Eazy/Dav/RoomDav.md)
 1. Hard
    - [Empline](CTF/TryHackMe/Hard/Empline/RoomEmpline.md)
+   - [Mr.Robot](CTF/TryHackMe/Hard/Mr.Robot/RoomMr.Robot.md)
